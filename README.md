@@ -16,8 +16,8 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />]
-[<img align="left" alt="Eclipse IDE" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
+<img align="left" alt="Eclipse IDE" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />
 <br />
 
 [instagram]: https://www.instagram.com/vedashruta/
