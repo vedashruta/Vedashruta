@@ -19,6 +19,7 @@
 <img align="left"  alt="Git hub" width="30" src="https://img-premium.flaticon.com/png/512/25/25231.png?token=exp=1621152953~hmac=4cf497af85ac8d55357c2ab01dcdc56d" />
 <img align="left"  alt="MySQL" width="30" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" />
 <br/>
+<br/>
 #### Connect with me:
 
 [<img align="left" alt="Vedashtutha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
