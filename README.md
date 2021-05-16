@@ -8,13 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I a Gamer!
 
-#### Connect with me:
-
-[<img align="left" alt="Vedashtutha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="Vedashtutha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-
-<br />
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align= x:120px,y:10px alt="Eclipse IDE" width="35px" src="https://www.eclipse.org/org/artwork/images/logo-800x188.png" />
@@ -25,6 +18,11 @@
 <br />
 <img align="left"  alt="Git hub" width="30" src="https://img-premium.flaticon.com/png/512/25/25231.png?token=exp=1621152953~hmac=4cf497af85ac8d55357c2ab01dcdc56d" />
 <img align="left"  alt="MySQL" width="30" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" />
+<br/>
+#### Connect with me:
 
+[<img align="left" alt="Vedashtutha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Vedashtutha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+<br />
 [instagram]: https://www.instagram.com/vedashruta/
 [linkedin]: https://www.linkedin.com/in/vedashrutha-ds/
