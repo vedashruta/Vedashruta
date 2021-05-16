@@ -10,14 +10,14 @@
 
 #### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="Vedashtutha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Vedashtutha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 <br />
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" alt="Eclipse IDE" width="35px" src="https://i.dlpng.com/static/png/7199121_preview.png" />
+<img align="left" alt="Eclipse IDE" width="35px" src="https://www.eclipse.org/org/artwork/images/logo-800x188.png" />
 
 <img align= x:100px,y:10px alt="Java" width="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" />
 <img align=x:130px,y:150px alt="C" width="26" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
