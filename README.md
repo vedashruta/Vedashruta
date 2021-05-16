@@ -16,9 +16,12 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
-<img align="left" alt="Eclipse IDE" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eclipseide.svg" />
-<img align="left" alt="Java" width="26px" src="https://png2.cleanpng.com/sh/05e420b5e52929ec18fa7eef3c5eee3d/L0KzQYm3WMExN6JveZH0aYP2gLBuTf9zaZRxfZ9sZYL3ebfwhfQueKN0ftd8c3nyfrLzTfpifpIyi9c2cILyd8Pojf1mel5oRdl7YXnvg37rhgZmdJD1hdd3dD3qgrF2lwkubJZ7fd54cH3ofsW0hCJicZ14RdY2NXK5dLXsUsUxPGk1fqc3MES1SIaAVcgyPWQ4UaQBOUS8QIKBVb5xdpg=/kisspng-oracle-certified-professional-java-se-programmer-c-grails-development-groovy-development-grails-d-5b6dde250480f5.0428575815339269490185.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" />
+<img align="left" alt="Eclipse IDE" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/470px-Eclipse-Luna-Logo.svg.png" />
+<img align="left" alt="Java" width="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" />
+<img align="left" alt="C" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+<img align="left" alt="C++" width="30" src="https://mpng.subpng.com/20180418/glq/kisspng-the-c-programming-language-computer-programming-programming-5ad7395d4c2638.9232807315240543653119.jpg" />
+<img align="left" alt="HTML 5" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png" />
 <br />
 
 [instagram]: https://www.instagram.com/vedashruta/
