@@ -21,7 +21,7 @@
 <img align="left"  alt="Java" width="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" />
 <img align="left"  alt="C" width="26" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left"   alt="C++" width="30" src="https://mpng.subpng.com/20180418/glq/kisspng-the-c-programming-language-computer-programming-programming-5ad7395d4c2638.9232807315240543653119.jpg" />
-<img align="left"  alt="HTML 5" width="26" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png" />
+<img align x:120px,y-5px  alt="HTML 5" width="26" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png" />
 <br />
 <img align="left"  alt="Git hub" width="30" src="https://img-premium.flaticon.com/png/512/25/25231.png?token=exp=1621152953~hmac=4cf497af85ac8d55357c2ab01dcdc56d" />
 <img align="left"  alt="MySQL" width="30" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" />
