@@ -21,7 +21,8 @@
 [<img align="left" alt="Eclipse" width="26px" src="https://images.app.goo.gl/yAv1Ksn6XutssPJw7"/>]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
-[<img align="left" alt="C++" width="26px" src="https://images.app.goo.gl/9XLHgcqx3RJdwDWY7" />]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON SLUG].svg" />
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
