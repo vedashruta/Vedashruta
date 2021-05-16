@@ -36,5 +36,5 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 <br />
-[instagram]: https://www.instagram.com/vedashruta/
-[linkedin]: https://www.linkedin.com/in/vedashrutha-ds/
+[Instagram]: https://www.instagram.com/vedashruta/
+[LinkedIn]: https://www.linkedin.com/in/vedashrutha-ds/
