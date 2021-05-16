@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align= x:100px,y:-10px alt="Eclipse IDE" width="35px" src="https://www.eclipse.org/org/artwork/images/logo-800x188.png" />
+<img align= x:120px,y:10px alt="Eclipse IDE" width="35px" src="https://www.eclipse.org/org/artwork/images/logo-800x188.png" />
 <img align="left"  alt="Java" width="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" />
 <img align="left"  alt="C" width="26" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left"   alt="C++" width="30" src="https://mpng.subpng.com/20180418/glq/kisspng-the-c-programming-language-computer-programming-programming-5ad7395d4c2638.9232807315240543653119.jpg" />
