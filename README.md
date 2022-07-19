@@ -1,6 +1,6 @@
 ### Hi there, I'm Vedashrutha
 
-### I'm a CSE student
+### Pre final year CSE Grad
 
 ### Passion for innovation, prototyping, and high-quality manufacturing
 
