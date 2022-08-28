@@ -1,6 +1,6 @@
 ### Hi there, I'm Vedashrutha
 
-### Pre final year CSE Grad
+### Engineer in Computer Science Specialization
 
 ### Passion for innovation, prototyping, and high-quality manufacturing
 
