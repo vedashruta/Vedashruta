@@ -50,10 +50,18 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  href="https://in.linkedin.com/in/vedashrutha-ds"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  href=""/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" href="instagram.com/vedashruta" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" href="mailto:vedashrutabhat@gmail.com" />
+ <a href="instagram.com/vedashruta">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+ </a> 
+ <a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/>
+ </a>
+ <a href="instagram.com/vedashruta">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" >
+ </a>
+ <a href="mailto:vedashrutabhat@gmail.com">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+ </a> 
 </div>
 
 ###
