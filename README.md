@@ -1,4 +1,4 @@
-<h1 align="left">Hey there 👋</h1>
+<!-- <h1 align="left">Hey there 👋</h1> -->
 
 ###
 
@@ -45,8 +45,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/vedashruta/vedashruta/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
