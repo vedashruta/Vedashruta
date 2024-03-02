@@ -45,14 +45,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vedashrutha/vedashrutha/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vedashruta/vedashruta/output/snake.svg" alt="Snake animation" />
 
 ###
 
 ###
 
 <div align="left">
- <a href="instagram.com/vedashruta">
+ <a href="https://www.linkedin.com/in/vedashrutha-ds">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
  </a> 
  <a>
@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vedashruta.vedashruta&"  />
+ [![](https://visitcount.itsvg.in/api?id=vedashrutha&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 ###
