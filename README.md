@@ -1,4 +1,3 @@
-
 <h1 align="left">Hey there 👋</h1>
 
 ###
@@ -68,6 +67,6 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=vedashrutha&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vedashruta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
