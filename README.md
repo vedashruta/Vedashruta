@@ -45,7 +45,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vedashruta/vedashruta/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vedashruta/vedashrutha/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
