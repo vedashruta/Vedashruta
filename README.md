@@ -85,7 +85,7 @@
 
 ###
 
-<h2 align="left">Stats :</h2>
+<h2 align="left">Github Stats :</h2>
 
 ###
 
@@ -99,6 +99,19 @@
 
 ###
 
+###
+
+<h2 align="left">Leet Code Stats :</h2>
+
+###
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/vedashruta?ext=heatmap&border=0&radius=20" height="420" alt="streak graph"  />
+</div>
+
+###
+
+##
 <div align="center">
  <a href="https://www.linkedin.com/in/vedashrutha-ds">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
